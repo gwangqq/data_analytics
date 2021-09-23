@@ -1,2 +1,2 @@
 # data_analytics
-This project is made to practice python to proccess data.
+This project is made to practice python to process data.
